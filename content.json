@@ -1,0 +1,163 @@
+{
+  "business_name": "OC Cleaning",
+  "legal_name": "OC Cleaning LLC",
+  "tagline": "Your Satisfaction is our Goal!",
+  "phone": "949-294-8715",
+  "email": null,
+  "address": null,
+  "city": "Orange County, CA",
+  "hours": null,
+  "service_areas": ["Orange County, CA", "Southwest Riverside County"],
+  "about_text": "OC Cleaning specializes in transforming residential and commercial spaces using green eco-friendly products. With over a decade of experience, we deliver exceptional cleaning solutions tailored to your needs. Our core values: friendly, honest, and fair while bringing value to our clients. We love what we do and have fun while making your home or office sparkling clean.",
+  "credentials": ["Licensed", "Bonded", "Insured", "Eco-Friendly Products"],
+  "stats": {
+    "households": "500+",
+    "units_cleaned": "15,000+",
+    "carpets_cleaned": "8,000+"
+  },
+  "services": {
+    "residential": [
+      {
+        "name": "Move-In / Move-Out Cleaning",
+        "description": "OC Cleaning is expert in move-in/move-out cleaning services. We offer one-time deep cleans for vacant properties. With over 15,000 units cleaned, we know how to deliver exceptional results and make sure you move to a clean house or get your deposit back!",
+        "image": "assets/images/service-movein.jpg"
+      },
+      {
+        "name": "Deep / Spring Cleaning",
+        "description": "One-time deep clean for occupied homes. Deep house cleaning is perfect for clients who haven't had a professional cleaning in over three or more months. We'll transform your space from top to bottom.",
+        "image": "assets/images/service-deep.jpg"
+      },
+      {
+        "name": "Recurring / Regular Cleaning",
+        "description": "Choose from weekly, bi-weekly, or monthly options. Our professionally trained cleaners will handle the dirty work so you can focus on what matters.",
+        "image": "assets/images/service-regular.jpg"
+      },
+      {
+        "name": "AirBnB / Short Term Rental",
+        "description": "Whether you have short-term or long-term rentals, we provide top-notch cleaning and organizing services. Your guests will love our hotel-quality standards, and your property will always be ready for the next booking.",
+        "image": "assets/images/service-airbnb.jpg"
+      },
+      {
+        "name": "Carpet Cleaning",
+        "description": "Enjoy fresh, clean carpets all year round. Everyone deserves a healthy living space. With over 8,000 carpets cleaned, we're your local experts who will always show up on time.",
+        "image": "assets/images/service-carpet.jpg"
+      },
+      {
+        "name": "Tile and Grout Floor Cleaning",
+        "description": "Transform your floors. Our deep tile & grout cleaning makes a world of difference. See & feel the change. Professional equipment for amazing results.",
+        "image": "assets/images/service-tile.jpg"
+      },
+      {
+        "name": "Window Washing",
+        "description": "Crystal-clear windows, inside & out. OC Cleaning cleans windows inside and outside, screens, tracks, and frames. Up to 3 stories. Bonded & insured.",
+        "image": null
+      },
+      {
+        "name": "Power Washing",
+        "description": "Every house needs it. We are proud to say that we have been offering professional power washing for more than a decade. Make your front yard, back yard, and garage floor new again!",
+        "image": "assets/images/service-power.jpg"
+      },
+      {
+        "name": "Post Construction Cleaning",
+        "description": "We have done over thousands of renovation cleanups. Wiping multiple surfaces and never forget to wipe walls and windows. We use vacuum with HEPA filter!",
+        "image": "assets/images/service-postconstruction.jpg"
+      }
+    ],
+    "commercial": [
+      {
+        "name": "Commercial Cleaning",
+        "description": "With over a decade of experience, OC Cleaning specializes in transforming commercial spaces using green products. From bustling retail stores and serene dental offices to vibrant nurseries, tranquil churches, and everyday office environments, we deliver exceptional cleaning solutions tailored to your needs.",
+        "image": "assets/images/service-commercial.jpg"
+      },
+      {
+        "name": "Commercial Carpet Cleaning",
+        "description": "From offices to churches, stores, and restaurants, we have experience cleaning it all. Our team offers professionalism, expertise, and affordable prices to ensure your space looks its best.",
+        "image": null
+      },
+      {
+        "name": "Upholstery Cleaning",
+        "description": "Transform your office space with our expert upholstery cleaning! From sofas and couches to chairs and mattresses, we restore your upholstery to like-new condition.",
+        "image": null
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Nash G",
+      "location": "Anaheim, CA",
+      "source": "Yelp",
+      "text": "The house was an absolute disgusting mess. The cleaners put in a lot of sweat and now I feel good moving in. Highly recommend this company and will probably contract them to come in once a month."
+    },
+    {
+      "name": null,
+      "location": "Anaheim, CA",
+      "source": "Yelp",
+      "text": "Our regular team - Nurmond and his brother Janis - are stellar. I'm amazed at how much they can accomplish in 2.5 hours. And our home is always spic-and-span by the time they're done. Thank you OC Cleaning, you're the best!"
+    },
+    {
+      "name": "Aubree W",
+      "location": "Fullerton, CA",
+      "source": "Yelp",
+      "text": "What a smooth and seamless experience from start to finish! They were able to accommodate short notice and come to my home the very next day, which was very much appreciated."
+    },
+    {
+      "name": "Colleen S",
+      "location": "Fullerton, CA",
+      "source": "Yelp",
+      "text": "The two lovely people who came out and cleaned did an excellent job. I have never seen such a hardworking crew. I highly recommend this business and will definitely have them back."
+    },
+    {
+      "name": null,
+      "location": "Irvine, CA",
+      "source": "Yelp",
+      "text": "Quick response, friendly helpers, understands instructions very well. Patient and responds to text messages."
+    },
+    {
+      "name": null,
+      "location": "Irvine, CA",
+      "source": "Yelp",
+      "text": "We are extremely grateful for the excellent service and attention to detail for a deep clean of our home. We were especially impressed with how sparkling clean our bathrooms were. Would highly recommend this business to others!"
+    },
+    {
+      "name": "Jerry S",
+      "location": "Santa Ana, CA",
+      "source": "Yelp",
+      "text": "They do a great job. Always sending hard-working people. I've used OC Cleaning many times over several years."
+    },
+    {
+      "name": null,
+      "location": "Cypress, CA",
+      "source": "Yelp",
+      "text": "Very friendly and professional. He went above and beyond to clean my house. Moved furniture to clean the window sills and blinds and did such an amazing job! He scrubbed the calcium buildup in the bathtub, and my faucet is shiny again!"
+    }
+  ],
+  "social_links": {
+    "yelp": "https://www.yelp.com/biz/oc-cleaning-orange",
+    "google": null
+  },
+  "brand_colors": {
+    "primary": "#2e7d32",
+    "secondary": "#1b5e20",
+    "accent": "#66bb6a",
+    "light": "#f1f8e9",
+    "dark": "#1a1a1a"
+  },
+  "images_downloaded": [
+    "assets/images/logo.png",
+    "assets/images/hero-bg.jpg",
+    "assets/images/service-movein.jpg",
+    "assets/images/service-deep.jpg",
+    "assets/images/service-carpet.jpg",
+    "assets/images/service-airbnb.jpg",
+    "assets/images/service-tile.jpg",
+    "assets/images/service-power.jpg",
+    "assets/images/service-commercial.jpg",
+    "assets/images/service-regular.jpg",
+    "assets/images/service-postconstruction.jpg",
+    "assets/images/badges.png",
+    "assets/images/google-logo.png",
+    "assets/images/yelp-logo.png"
+  ],
+  "original_url": "https://housecleaningoc.info/",
+  "scraping_notes": "Site uses Divi WordPress with LiteSpeed caching, all content hidden behind JS rendering. Phone number extracted from raw HTML header nav. All content extracted from HTML source using text stripping. Images downloaded from WordPress media library URLs. No email or physical address found on original site."
+}
